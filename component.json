@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/acdlite/redux-promise.git",
+    "version": "0.5.0",
+    "tag": "master",
+    "name": "redux-promise",
+    "main": "lib/index.js",
+    "dependencies": {
+        "flux-standard-action": "0.6.0"
+    }
+}
